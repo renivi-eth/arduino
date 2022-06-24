@@ -12,5 +12,6 @@
 - Кнопка (troyka модуль) - реально просто кнопка 
 
 
-Выглядит Iska Neo как-то вот так 
-![This is an image]([https://www.terraelectronica.ru/images/icatalog/big/2/2large_iskra-neo.2.jpg])
+Выглядит ![Iska Neo]([https://www.terraelectronica.ru/images/icatalog/big/2/2large_iskra-neo.2.jpg] как-то вот так 
+
+
