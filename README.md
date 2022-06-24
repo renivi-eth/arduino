@@ -1,4 +1,4 @@
-# Arduino projects 
+# Arduino projects :desktop_computer:
 
 **Моя комплектация:** 
 
